@@ -4,7 +4,15 @@ h2 {
   padding-bottom: 40px;
 }
 
-#team-info, #game-info{
+#team-a {
+	padding-right: 25px;
+	padding-bottom: 80px;
+}
+#team-b {
+	padding-left: 25px;
+}
+
+#team-info, #game-info {
   padding: 20px 0 5px 0;
 }
 
