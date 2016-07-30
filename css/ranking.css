@@ -1,11 +1,11 @@
 h2 {
+  font-family: 'Kranky', Helvetica;
   text-align: center;
-  color: #E52E10;
   padding-bottom: 40px;
 }
 
 #team-info, #game-info{
-  padding: 20px 0;
+  padding: 20px 0 5px 0;
 }
 
 input{
@@ -23,5 +23,5 @@ input{
 	background: #E52E10; 
 }
 .ui-slider-handle { 
-	border-color: #E52E10; 
+	display: none;
 }
