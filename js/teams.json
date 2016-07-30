@@ -1,1272 +1,1377 @@
 [
-{
-"t_name": "Gotham Girls Roller Derby",
-"t_strength": "5.87",
-"t_rank": 1
-},
-{
-"t_name": "Rose City Rollers",
-"t_strength": "5.57",
-"t_rank": 2
-},
-{
-"t_name": "B.ay A.rea D.erby Girls",
-"t_strength": "4.88",
-"t_rank": 3
-},
-{
-"t_name": "Victorian Roller Derby League",
-"t_strength": "4.72",
-"t_rank": 4
-},
-{
-"t_name": "Denver Roller Derby",
-"t_strength": "4.46",
-"t_rank": 5
-},
-{
-"t_name": "Texas Rollergirls",
-"t_strength": "4.45",
-"t_rank": 6
-},
-{
-"t_name": "Minnesota RollerGirls",
-"t_strength": "4.22",
-"t_rank": 7
-},
-{
-"t_name": "Angel City Derby Girls",
-"t_strength": "4.15",
-"t_rank": 8
-},
-{
-"t_name": "Philly Roller Derby",
-"t_strength": "4.06",
-"t_rank": 9
-},
-{
-"t_name": "Jacksonville Rollergirls",
-"t_strength": "4.03",
-"t_rank": 10
-},
-{
-"t_name": "London Rollergirls",
-"t_strength": "3.96",
-"t_rank": 11
-},
-{
-"t_name": "Rocky Mountain Rollergirls",
-"t_strength": "3.78",
-"t_rank": 12
-},
-{
-"t_name": "Atlanta Rollergirls",
-"t_strength": "3.65",
-"t_rank": 13
-},
-{
-"t_name": "Arch Rival Roller Girls",
-"t_strength": "3.45",
-"t_rank": 14
-},
-{
-"t_name": "Windy City Rollers",
-"t_strength": "3.31",
-"t_rank": 15
-},
-{
-"t_name": "Rat City Roller Girls",
-"t_strength": "3.28",
-"t_rank": 16
-},
-{
-"t_name": "Detroit Derby Girls",
-"t_strength": "3.17",
-"t_rank": 17
-},
-{
-"t_name": "Charm City Roller Girls",
-"t_strength": "3.16",
-"t_rank": 18
-},
-{
-"t_name": "Montreal Roller Derby",
-"t_strength": "3.15",
-"t_rank": 19
-},
-{
-"t_name": "Oly Rollers",
-"t_strength": "2.99",
-"t_rank": 20
-},
-{
-"t_name": "Team United Women's Roller Derby",
-"t_strength": "2.98",
-"t_rank": 21
-},
-{
-"t_name": "Terminal City Rollergirls",
-"t_strength": "2.91",
-"t_rank": 22
-},
-{
-"t_name": "Tampa Roller Derby",
-"t_strength": "2.90",
-"t_rank": 23
-},
-{
-"t_name": "Glasgow Roller Derby",
-"t_strength": "2.84",
-"t_rank": 24
-},
-{
-"t_name": "Boston Derby Dames",
-"t_strength": "2.83",
-"t_rank": 25
-},
-{
-"t_name": "Dallas Derby Devils",
-"t_strength": "2.78",
-"t_rank": 26
-},
-{
-"t_name": "Sun State Roller Girls",
-"t_strength": "2.74",
-"t_rank": 27
-},
-{
-"t_name": "Steel City Roller Derby",
-"t_strength": "2.73",
-"t_rank": 28
-},
-{
-"t_name": "Ohio Roller Girls",
-"t_strength": "2.68",
-"t_rank": 29
-},
-{
-"t_name": "Arizona Roller Derby",
-"t_strength": "2.64",
-"t_rank": 30
-},
-{
-"t_name": "Stockholm Roller Derby",
-"t_strength": "2.63",
-"t_rank": 31
-},
-{
-"t_name": "Toronto Roller Derby",
-"t_strength": "2.62",
-"t_rank": 32
-},
-{
-"t_name": "Queen City Roller Girls",
-"t_strength": "2.52",
-"t_rank": 33
-},
-{
-"t_name": "Pikes Peak Derby Dames",
-"t_strength": "2.50",
-"t_rank": 34
-},
-{
-"t_name": "Helsinki Roller Derby",
-"t_strength": "2.43",
-"t_rank": 35
-},
-{
-"t_name": "Mad Rollin' Dolls Roller Derby",
-"t_strength": "2.42",
-"t_rank": 36
-},
-{
-"t_name": "Rideau Valley Roller Girls",
-"t_strength": "2.41",
-"t_rank": 37
-},
-{
-"t_name": "Tri-City Roller Derby",
-"t_strength": "2.40",
-"t_rank": 38
-},
-{
-"t_name": "Kansas City Roller Warriors",
-"t_strength": "2.40",
-"t_rank": 39
-},
-{
-"t_name": "Columbia Quad Squad",
-"t_strength": "2.34",
-"t_rank": 40
-},
-{
-"t_name": "No Coast Derby Girls",
-"t_strength": "2.34",
-"t_rank": 41
-},
-{
-"t_name": "Wasatch Roller Derby",
-"t_strength": "2.31",
-"t_rank": 42
-},
-{
-"t_name": "Treasure Valley Rollergirls",
-"t_strength": "2.31",
-"t_rank": 43
-},
-{
-"t_name": "Nashville Rollergirls",
-"t_strength": "2.30",
-"t_rank": 44
-},
-{
-"t_name": "Boulder County Bombers",
-"t_strength": "2.30",
-"t_rank": 45
-},
-{
-"t_name": "Santa Cruz Derby Girls",
-"t_strength": "2.29",
-"t_rank": 46
-},
-{
-"t_name": "St. Chux Derby Chix",
-"t_strength": "2.23",
-"t_rank": 47
-},
-{
-"t_name": "Sac City Rollers",
-"t_strength": "2.21",
-"t_rank": 48
-},
-{
-"t_name": "Naptown Roller Girls",
-"t_strength": "2.21",
-"t_rank": 49
-},
-{
-"t_name": "Charlottesville Derby Dames",
-"t_strength": "2.19",
-"t_rank": 50
-},
-{
-"t_name": "Emerald City Roller Girls",
-"t_strength": "2.16",
-"t_rank": 51
-},
-{
-"t_name": "Demolition City Roller Derby",
-"t_strength": "2.15",
-"t_rank": 52
-},
-{
-"t_name": "Sacred City Derby Girls",
-"t_strength": "2.14",
-"t_rank": 53
-},
-{
-"t_name": "Chicago Outfit Roller Derby",
-"t_strength": "2.13",
-"t_rank": 54
-},
-{
-"t_name": "Houston Roller Derby",
-"t_strength": "2.08",
-"t_rank": 55
-},
-{
-"t_name": "Fabulous Sin City Rollergirls",
-"t_strength": "2.07",
-"t_rank": 56
-},
-{
-"t_name": "Oklahoma Victory Dolls",
-"t_strength": "2.07",
-"t_rank": 57
-},
-{
-"t_name": "Calgary Roller Derby Association",
-"t_strength": "2.06",
-"t_rank": 58
-},
-{
-"t_name": "Bear City Roller Derby",
-"t_strength": "2.06",
-"t_rank": 59
-},
-{
-"t_name": "Jet City Rollergirls",
-"t_strength": "2.04",
-"t_rank": 60
-},
-{
-"t_name": "Brewcity Bruisers",
-"t_strength": "2.01",
-"t_rank": 61
-},
-{
-"t_name": "Auld Reekie Roller Girls",
-"t_strength": "1.96",
-"t_rank": 62
-},
-{
-"t_name": "Ann Arbor Roller Derby",
-"t_strength": "1.87",
-"t_rank": 63
-},
-{
-"t_name": "Blue Ridge Rollergirls",
-"t_strength": "1.87",
-"t_rank": 64
-},
-{
-"t_name": "Brandywine Roller Girls",
-"t_strength": "1.87",
-"t_rank": 65
-},
-{
-"t_name": "Roc City Roller Derby",
-"t_strength": "1.86",
-"t_rank": 66
-},
-{
-"t_name": "Tucson Roller Derby",
-"t_strength": "1.81",
-"t_rank": 67
-},
-{
-"t_name": "SoCal Derby",
-"t_strength": "1.80",
-"t_rank": 68
-},
-{
-"t_name": "Ft. Wayne Derby Girls",
-"t_strength": "1.79",
-"t_rank": 69
-},
-{
-"t_name": "Omaha Rollergirls",
-"t_strength": "1.77",
-"t_rank": 70
-},
-{
-"t_name": "Cincinnati Rollergirls",
-"t_strength": "1.75",
-"t_rank": 71
-},
-{
-"t_name": "Carolina Rollergirls",
-"t_strength": "1.75",
-"t_rank": 72
-},
-{
-"t_name": "North Star Roller Girls",
-"t_strength": "1.75",
-"t_rank": 73
-},
-{
-"t_name": "Big Easy Rollergirls",
-"t_strength": "1.73",
-"t_rank": 74
-},
-{
-"t_name": "Grand Raggidy Roller Girls",
-"t_strength": "1.71",
-"t_rank": 75
-},
-{
-"t_name": "Green Mt. Derby Dames",
-"t_strength": "1.71",
-"t_rank": 76
-},
-{
-"t_name": "Des Moines Derby Dames",
-"t_strength": "1.71",
-"t_rank": 77
-},
-{
-"t_name": "Crime City Rollers",
-"t_strength": "1.71",
-"t_rank": 78
-},
-{
-"t_name": "Old Capitol City Roller Girls",
-"t_strength": "1.70",
-"t_rank": 79
-},
-{
-"t_name": "DC Rollergirls",
-"t_strength": "1.68",
-"t_rank": 80
-},
-{
-"t_name": "Killamazoo Derby Darlins",
-"t_strength": "1.65",
-"t_rank": 81
-},
-{
-"t_name": "Suburbia Roller Derby",
-"t_strength": "1.65",
-"t_rank": 82
-},
-{
-"t_name": "Tiger Bay Brawlers",
-"t_strength": "1.63",
-"t_rank": 83
-},
-{
-"t_name": "Sioux City Roller Dames",
-"t_strength": "1.62",
-"t_rank": 84
-},
-{
-"t_name": "Burning River Roller Derby",
-"t_strength": "1.62",
-"t_rank": 85
-},
-{
-"t_name": "Gold Coast Derby Grrls",
-"t_strength": "1.62",
-"t_rank": 86
-},
-{
-"t_name": "Ithaca League of Women Rollers",
-"t_strength": "1.61",
-"t_rank": 87
-},
-{
-"t_name": "Maine Roller Derby",
-"t_strength": "1.50",
-"t_rank": 88
-},
-{
-"t_name": "Twin City Derby Girls",
-"t_strength": "1.44",
-"t_rank": 89
-},
-{
-"t_name": "Northwest Arkansas Roller Derby",
-"t_strength": "1.44",
-"t_rank": 90
-},
-{
-"t_name": "Bakersfield Diamond Divas",
-"t_strength": "1.42",
-"t_rank": 91
-},
-{
-"t_name": "Charlotte Roller Girls",
-"t_strength": "1.38",
-"t_rank": 92
-},
-{
-"t_name": "Sydney Roller Derby League",
-"t_strength": "1.33",
-"t_rank": 93
-},
-{
-"t_name": "Fort Myers Derby Girls",
-"t_strength": "1.33",
-"t_rank": 94
-},
-{
-"t_name": "Junction City Roller Dolls",
-"t_strength": "1.33",
-"t_rank": 95
-},
-{
-"t_name": "Dupage Derby Dames",
-"t_strength": "1.33",
-"t_rank": 96
-},
-{
-"t_name": "Lansing Derby Vixens",
-"t_strength": "1.32",
-"t_rank": 97
-},
-{
-"t_name": "Providence Roller Derby",
-"t_strength": "1.31",
-"t_rank": 98
-},
-{
-"t_name": "Muddy River Rollers",
-"t_strength": "1.27",
-"t_rank": 99
-},
-{
-"t_name": "Fargo Moorhead Derby Girls",
-"t_strength": "1.26",
-"t_rank": 100
-},
-{
-"t_name": "Winnipeg Roller Derby League",
-"t_strength": "1.25",
-"t_rank": 101
-},
-{
-"t_name": "Rainy City Roller Girls",
-"t_strength": "1.24",
-"t_rank": 102
-},
-{
-"t_name": "NEO Roller Derby",
-"t_strength": "1.23",
-"t_rank": 103
-},
-{
-"t_name": "Salisbury Rollergirls",
-"t_strength": "1.21",
-"t_rank": 104
-},
-{
-"t_name": "Greensboro Roller Derby",
-"t_strength": "1.20",
-"t_rank": 105
-},
-{
-"t_name": "Shasta Roller Derby",
-"t_strength": "1.19",
-"t_rank": 106
-},
-{
-"t_name": "New Hampshire Roller Derby",
-"t_strength": "1.18",
-"t_rank": 107
-},
-{
-"t_name": "Royal City Roller Girls",
-"t_strength": "1.18",
-"t_rank": 108
-},
-{
-"t_name": "Rage City Rollergirls",
-"t_strength": "1.17",
-"t_rank": 109
-},
-{
-"t_name": "Cape Fear Roller Girls",
-"t_strength": "1.16",
-"t_rank": 110
-},
-{
-"t_name": "Derby City Roller Girls",
-"t_strength": "1.16",
-"t_rank": 111
-},
-{
-"t_name": "Memphis Roller Derby",
-"t_strength": "1.16",
-"t_rank": 112
-},
-{
-"t_name": "Garden State Rollergirls",
-"t_strength": "1.15",
-"t_rank": 113
-},
-{
-"t_name": "Canberra Roller Derby League",
-"t_strength": "1.15",
-"t_rank": 114
-},
-{
-"t_name": "Connecticut RollerGirls",
-"t_strength": "1.15",
-"t_rank": 115
-},
-{
-"t_name": "Oklahoma City Roller Derby",
-"t_strength": "1.11",
-"t_rank": 116
-},
-{
-"t_name": "Central NY Roller Derby",
-"t_strength": "1.11",
-"t_rank": 117
-},
-{
-"t_name": "Quad City Rollers",
-"t_strength": "1.10",
-"t_rank": 118
-},
-{
-"t_name": "Cherry City Derby Girls",
-"t_strength": "1.09",
-"t_rank": 119
-},
-{
-"t_name": "Kallio Rolling Rainbow",
-"t_strength": "1.09",
-"t_rank": 120
-},
-{
-"t_name": "Lowcountry HighRollers",
-"t_strength": "1.08",
-"t_rank": 121
-},
-{
-"t_name": "ICT Roller Girls",
-"t_strength": "1.08",
-"t_rank": 122
-},
-{
-"t_name": "North Texas Derby Revolution",
-"t_strength": "1.07",
-"t_rank": 123
-},
-{
-"t_name": "V-Town Derby Dames",
-"t_strength": "1.06",
-"t_rank": 124
-},
-{
-"t_name": "Dub City Derby Girls",
-"t_strength": "1.05",
-"t_rank": 125
-},
-{
-"t_name": "Mid-States Sisters of Skate",
-"t_strength": "1.04",
-"t_rank": 126
-},
-{
-"t_name": "San Fernando Valley Roller Derby",
-"t_strength": "1.04",
-"t_rank": 127
-},
-{
-"t_name": "Hard Knox Roller Girls",
-"t_strength": "1.03",
-"t_rank": 128
-},
-{
-"t_name": "Rainier Rollergirls",
-"t_strength": "1.02",
-"t_rank": 129
-},
-{
-"t_name": "Classic City Rollergirls",
-"t_strength": "1.01",
-"t_rank": 130
-},
-{
-"t_name": "Cen-Tex Rollergirls",
-"t_strength": "1.01",
-"t_rank": 131
-},
-{
-"t_name": "Dutchland Derby Rollers",
-"t_strength": "1.00",
-"t_rank": 132
-},
-{
-"t_name": "Alamo City Rollergirls",
-"t_strength": "0.98",
-"t_rank": 133
-},
-{
-"t_name": "Dublin Roller Derby",
-"t_strength": "0.97",
-"t_rank": 134
-},
-{
-"t_name": "Vette City Roller Derby",
-"t_strength": "0.97",
-"t_rank": 135
-},
-{
-"t_name": "Lava City Roller Dolls",
-"t_strength": "0.96",
-"t_rank": 136
-},
-{
-"t_name": "Granite State Roller Derby",
-"t_strength": "0.95",
-"t_rank": 137
-},
-{
-"t_name": "Paris Rollergirls",
-"t_strength": "0.95",
-"t_rank": 138
-},
-{
-"t_name": "Gent Go Go Rollergirls",
-"t_strength": "0.95",
-"t_rank": 139
-},
-{
-"t_name": "Forest City Derby Girls",
-"t_strength": "0.95",
-"t_rank": 140
-},
-{
-"t_name": "Middlesbrough Milk Rollers",
-"t_strength": "0.94",
-"t_rank": 141
-},
-{
-"t_name": "Crossroads City Derby",
-"t_strength": "0.94",
-"t_rank": 142
-},
-{
-"t_name": "Mo-Kan Roller Girls",
-"t_strength": "0.94",
-"t_rank": 143
-},
-{
-"t_name": "Fox Cities Roller Derby",
-"t_strength": "0.93",
-"t_rank": 144
-},
-{
-"t_name": "Gem City Rollergirls",
-"t_strength": "0.92",
-"t_rank": 145
-},
-{
-"t_name": "Tragic City Rollers",
-"t_strength": "0.92",
-"t_rank": 146
-},
-{
-"t_name": "Red Stick Roller Derby",
-"t_strength": "0.91",
-"t_rank": 147
-},
-{
-"t_name": "580 Rollergirls",
-"t_strength": "0.91",
-"t_rank": 148
-},
-{
-"t_name": "Central City Roller Girls",
-"t_strength": "0.90",
-"t_rank": 149
-},
-{
-"t_name": "Hammer City Roller Girls",
-"t_strength": "0.90",
-"t_rank": 150
-},
-{
-"t_name": "Mississippi Rollergirls",
-"t_strength": "0.90",
-"t_rank": 151
-},
-{
-"t_name": "Harbor City Roller Dames",
-"t_strength": "0.88",
-"t_rank": 152
-},
-{
-"t_name": "Cornfed Derby Dames",
-"t_strength": "0.88",
-"t_rank": 153
-},
-{
-"t_name": "Mother State Roller Derby",
-"t_strength": "0.88",
-"t_rank": 154
-},
-{
-"t_name": "Chattanooga Roller Girls",
-"t_strength": "0.87",
-"t_rank": 155
-},
-{
-"t_name": "Ventura County Derby Darlins",
-"t_strength": "0.87",
-"t_rank": 156
-},
-{
-"t_name": "New Jersey Roller Derby",
-"t_strength": "0.86",
-"t_rank": 157
-},
-{
-"t_name": "Black Rose Rollers",
-"t_strength": "0.86",
-"t_rank": 158
-},
-{
-"t_name": "Newcastle Roller Girls",
-"t_strength": "0.84",
-"t_rank": 159
-},
-{
-"t_name": "FoCo Girls Gone Derby",
-"t_strength": "0.84",
-"t_rank": 160
-},
-{
-"t_name": "Long Island Roller Rebels",
-"t_strength": "0.84",
-"t_rank": 161
-},
-{
-"t_name": "Tallahassee Rollergirls",
-"t_strength": "0.84",
-"t_rank": 162
-},
-{
-"t_name": "Happy Valley Derby Darlins",
-"t_strength": "0.84",
-"t_rank": 163
-},
-{
-"t_name": "Babe City Rollers",
-"t_strength": "0.84",
-"t_rank": 164
-},
-{
-"t_name": "Royal Windsor Rollergirls",
-"t_strength": "0.83",
-"t_rank": 165
-},
-{
-"t_name": "Richland County Regulators Derby Team",
-"t_strength": "0.83",
-"t_rank": 166
-},
-{
-"t_name": "Snake Pit Derby Dames",
-"t_strength": "0.83",
-"t_rank": 167
-},
-{
-"t_name": "Duke City Derby",
-"t_strength": "0.82",
-"t_rank": 168
-},
-{
-"t_name": "Cheyenne Capidolls",
-"t_strength": "0.82",
-"t_rank": 169
-},
-{
-"t_name": "Pueblo Derby Devil Dollz",
-"t_strength": "0.81",
-"t_rank": 170
-},
-{
-"t_name": "Assault City Roller Derby",
-"t_strength": "0.81",
-"t_rank": 171
-},
-{
-"t_name": "Monterey Bay Derby Dames",
-"t_strength": "0.80",
-"t_rank": 172
-},
-{
-"t_name": "Leeds Roller Dolls",
-"t_strength": "0.80",
-"t_rank": 173
-},
-{
-"t_name": "Nottingham Hellfire Harlots",
-"t_strength": "0.80",
-"t_rank": 174
-},
-{
-"t_name": "Nidaros Roller Derby",
-"t_strength": "0.79",
-"t_rank": 175
-},
-{
-"t_name": "Cedar Rapids RollerGirls",
-"t_strength": "0.79",
-"t_rank": 176
-},
-{
-"t_name": "Southern Illinois Rollergirls",
-"t_strength": "0.79",
-"t_rank": 177
-},
-{
-"t_name": "Dominion Derby Girls",
-"t_strength": "0.78",
-"t_rank": 178
-},
-{
-"t_name": "Durango Roller Girls",
-"t_strength": "0.78",
-"t_rank": 179
-},
-{
-"t_name": "Chippewa Valley Roller Girls",
-"t_strength": "0.78",
-"t_rank": 180
-},
-{
-"t_name": "Hellions of Troy Roller Derby",
-"t_strength": "0.78",
-"t_rank": 181
-},
-{
-"t_name": "Cajun Rollergirls",
-"t_strength": "0.78",
-"t_rank": 182
-},
-{
-"t_name": "Lehigh Valley Rollergirls",
-"t_strength": "0.78",
-"t_rank": 183
-},
-{
-"t_name": "Magnolia Roller Vixens",
-"t_strength": "0.77",
-"t_rank": 184
-},
-{
-"t_name": "Bay State Brawlers",
-"t_strength": "0.77",
-"t_rank": 185
-},
-{
-"t_name": "Sonoma County Roller Derby",
-"t_strength": "0.76",
-"t_rank": 186
-},
-{
-"t_name": "Silicon Valley Rollergirls",
-"t_strength": "0.76",
-"t_rank": 187
-},
-{
-"t_name": "Ark Valley High Rollers",
-"t_strength": "0.76",
-"t_rank": 188
-},
-{
-"t_name": "Bellingham Roller Betties",
-"t_strength": "0.75",
-"t_rank": 189
-},
-{
-"t_name": "Springfield Rollergirls",
-"t_strength": "0.74",
-"t_rank": 190
-},
-{
-"t_name": "Worcester Roller Derby",
-"t_strength": "0.74",
-"t_rank": 191
-},
-{
-"t_name": "Stuttgart Valley Roller Girls",
-"t_strength": "0.73",
-"t_rank": 192
-},
-{
-"t_name": "Derby Revolution of Bakersfield",
-"t_strength": "0.72",
-"t_rank": 193
-},
-{
-"t_name": "Hartford Area Roller Derby",
-"t_strength": "0.72",
-"t_rank": 194
-},
-{
-"t_name": "Shore Points Roller Derby",
-"t_strength": "0.72",
-"t_rank": 195
-},
-{
-"t_name": "Rock Coast Rollers",
-"t_strength": "0.70",
-"t_rank": 196
-},
-{
-"t_name": "Border City Brawlers",
-"t_strength": "0.70",
-"t_rank": 197
-},
-{
-"t_name": "Dockyard Derby Dames",
-"t_strength": "0.69",
-"t_rank": 198
-},
-{
-"t_name": "Como Derby Dames",
-"t_strength": "0.69",
-"t_rank": 199
-},
-{
-"t_name": "Copenhagen Roller Derby",
-"t_strength": "0.69",
-"t_rank": 200
-},
-{
-"t_name": "Five 40 Roller Girls",
-"t_strength": "0.69",
-"t_rank": 201
-},
-{
-"t_name": "Nantes Derby Girls",
-"t_strength": "0.68",
-"t_rank": 202
-},
-{
-"t_name": "Circle City Derby Girls",
-"t_strength": "0.67",
-"t_rank": 203
-},
-{
-"t_name": "Little Steel Derby Girls",
-"t_strength": "0.67",
-"t_rank": 204
-},
-{
-"t_name": "Oslo Roller Derby",
-"t_strength": "0.67",
-"t_rank": 205
-},
-{
-"t_name": "Appalachian Rollergirls",
-"t_strength": "0.67",
-"t_rank": 206
-},
-{
-"t_name": "Bleeding Heartland Roller Derby",
-"t_strength": "0.66",
-"t_rank": 207
-},
-{
-"t_name": "Mass Attack Roller Derby",
-"t_strength": "0.66",
-"t_rank": 208
-},
-{
-"t_name": "Little City Roller Girls",
-"t_strength": "0.65",
-"t_rank": 209
-},
-{
-"t_name": "London Rockin' Rollers",
-"t_strength": "0.65",
-"t_rank": 210
-},
-{
-"t_name": "West Coast Derby Knockouts",
-"t_strength": "0.63",
-"t_rank": 211
-},
-{
-"t_name": "Kokeshi Roller Dolls",
-"t_strength": "0.61",
-"t_rank": 212
-},
-{
-"t_name": "Glass City Rollers",
-"t_strength": "0.61",
-"t_rank": 213
-},
-{
-"t_name": "Jersey Shore Roller Girls",
-"t_strength": "0.61",
-"t_rank": 214
-},
-{
-"t_name": "A'Salt Creek Rollergirls",
-"t_strength": "0.59",
-"t_rank": 215
-},
-{
-"t_name": "Albany All Stars",
-"t_strength": "0.58",
-"t_rank": 216
-},
-{
-"t_name": "McLean County MissFits",
-"t_strength": "0.58",
-"t_rank": 217
-},
-{
-"t_name": "Diamond State Roller Girls",
-"t_strength": "0.58",
-"t_rank": 218
-},
-{
-"t_name": "Central Coast Roller Derby",
-"t_strength": "0.56",
-"t_rank": 219
-},
-{
-"t_name": "West Texas Roller Dollz",
-"t_strength": "0.56",
-"t_rank": 220
-},
-{
-"t_name": "Cedar Valley Derby Divas",
-"t_strength": "0.55",
-"t_rank": 221
-},
-{
-"t_name": "Tokyo Roller Girls",
-"t_strength": "0.55",
-"t_rank": 222
-},
-{
-"t_name": "Slaughterhouse Derby Girls",
-"t_strength": "0.55",
-"t_rank": 223
-},
-{
-"t_name": "Savannah Derby Devils",
-"t_strength": "0.54",
-"t_rank": 224
-},
-{
-"t_name": "Sioux Falls Roller Dollz",
-"t_strength": "0.54",
-"t_rank": 225
-},
-{
-"t_name": "Soul City Sirens",
-"t_strength": "0.54",
-"t_rank": 226
-},
-{
-"t_name": "Rainy City Roller Dolls",
-"t_strength": "0.53",
-"t_rank": 227
-},
-{
-"t_name": "Rollergirls of Central Kentucky",
-"t_strength": "0.53",
-"t_rank": 228
-},
-{
-"t_name": "Mason Dixon Roller Vixens",
-"t_strength": "0.52",
-"t_rank": 229
-},
-{
-"t_name": "Pacific Roller Derby",
-"t_strength": "0.52",
-"t_rank": 230
-},
-{
-"t_name": "Devil Dog Derby Dames",
-"t_strength": "0.52",
-"t_rank": 231
-},
-{
-"t_name": "Dixie Derby Girls",
-"t_strength": "0.51",
-"t_rank": 232
-},
-{
-"t_name": "Paradise Rollergirls",
-"t_strength": "0.50",
-"t_rank": 233
-},
-{
-"t_name": "Enid Roller Girls",
-"t_strength": "0.50",
-"t_rank": 234
-},
-{
-"t_name": "Roughneck Roller Derby",
-"t_strength": "0.50",
-"t_rank": 235
-},
-{
-"t_name": "Greater Toronto Area Rollergirls",
-"t_strength": "0.50",
-"t_rank": 236
-},
-{
-"t_name": "NRV Rollergirls",
-"t_strength": "0.50",
-"t_rank": 237
-},
-{
-"t_name": "Confluence Crush Roller Derby",
-"t_strength": "0.50",
-"t_rank": 238
-},
-{
-"t_name": "Roller Derby Metz Club",
-"t_strength": "0.50",
-"t_rank": 239
-},
-{
-"t_name": "Hudson Valley Horrors",
-"t_strength": "0.50",
-"t_rank": 240
-},
-{
-"t_name": "Castle Rock-n-Rollers",
-"t_strength": "0.50",
-"t_rank": 241
-},
-{
-"t_name": "Gainesville Roller Rebels",
-"t_strength": "0.50",
-"t_rank": 242
-},
-{
-"t_name": "Renegade Derby Dames",
-"t_strength": "0.50",
-"t_rank": 243
-},
-{
-"t_name": "Harrisburg Area Roller Derby",
-"t_strength": "0.50",
-"t_rank": 244
-},
-{
-"t_name": "Greenville Derby Dames",
-"t_strength": "0.50",
-"t_rank": 245
-},
-{
-"t_name": "River City Rollergirls",
-"t_strength": "0.50",
-"t_rank": 246
-},
-{
-"t_name": "Chemical Valley Rollergirls",
-"t_strength": "0.50",
-"t_rank": 247
-},
-{
-"t_name": "Rocktown Rollers",
-"t_strength": "0.50",
-"t_rank": 248
-},
-{
-"t_name": "Assassination City Roller Derby",
-"t_strength": "0.50",
-"t_rank": 249
-},
-{
-"t_name": "Roller Girls of the Apocalypse",
-"t_strength": "0.50",
-"t_rank": 250
-},
-{
-"t_name": "Black-N-Bluegrass Roller Girls",
-"t_strength": "0.50",
-"t_rank": 251
-},
-{
-"t_name": "Mississippi Valley Mahem",
-"t_strength": "0.50",
-"t_rank": 252
-},
-{
-"t_name": "Spindletop Rollergirls",
-"t_strength": "0.50",
-"t_rank": 253
-},
-{
-"t_name": "Southern Oregon Rollergirls",
-"t_strength": "0.50",
-"t_rank": 254
-}
+  {
+    "t_name": "Gotham Girls Roller Derby",
+    "t_strength": "7.15",
+    "t_rank": 1
+  },
+  {
+    "t_name": "Victorian Roller Derby League",
+    "t_strength": "6.45",
+    "t_rank": 2
+  },
+  {
+    "t_name": "London Rollergirls",
+    "t_strength": "6.19",
+    "t_rank": 3
+  },
+  {
+    "t_name": "Rose City Rollers",
+    "t_strength": "6.16",
+    "t_rank": 4
+  },
+  {
+    "t_name": "Texas Rollergirls",
+    "t_strength": "5.20",
+    "t_rank": 5
+  },
+  {
+    "t_name": "Angel City Derby Girls",
+    "t_strength": "4.98",
+    "t_rank": 6
+  },
+  {
+    "t_name": "Denver Roller Derby",
+    "t_strength": "4.84",
+    "t_rank": 7
+  },
+  {
+    "t_name": "Jacksonville Rollergirls",
+    "t_strength": "4.81",
+    "t_rank": 8
+  },
+  {
+    "t_name": "B.ay A.rea D.erby Girls",
+    "t_strength": "4.81",
+    "t_rank": 9
+  },
+  {
+    "t_name": "Arch Rival Roller Girls",
+    "t_strength": "4.60",
+    "t_rank": 10
+  },
+  {
+    "t_name": "Philly Roller Derby",
+    "t_strength": "4.32",
+    "t_rank": 11
+  },
+  {
+    "t_name": "Minnesota RollerGirls",
+    "t_strength": "4.29",
+    "t_rank": 12
+  },
+  {
+    "t_name": "Rat City Roller Girls",
+    "t_strength": "4.23",
+    "t_rank": 13
+  },
+  {
+    "t_name": "Atlanta Rollergirls",
+    "t_strength": "3.76",
+    "t_rank": 14
+  },
+  {
+    "t_name": "Montreal Roller Derby",
+    "t_strength": "3.71",
+    "t_rank": 15
+  },
+  {
+    "t_name": "Rocky Mountain Rollergirls",
+    "t_strength": "3.71",
+    "t_rank": 16
+  },
+  {
+    "t_name": "Stockholm Roller Derby",
+    "t_strength": "3.32",
+    "t_rank": 17
+  },
+  {
+    "t_name": "Tampa Roller Derby",
+    "t_strength": "3.32",
+    "t_rank": 18
+  },
+  {
+    "t_name": "Dallas Derby Devils",
+    "t_strength": "3.30",
+    "t_rank": 19
+  },
+  {
+    "t_name": "Detroit Derby Girls",
+    "t_strength": "3.23",
+    "t_rank": 20
+  },
+  {
+    "t_name": "Boston Roller Derby",
+    "t_strength": "3.15",
+    "t_rank": 21
+  },
+  {
+    "t_name": "Team United Women's Roller Derby",
+    "t_strength": "3.07",
+    "t_rank": 22
+  },
+  {
+    "t_name": "Terminal City Rollergirls",
+    "t_strength": "3.01",
+    "t_rank": 23
+  },
+  {
+    "t_name": "Crime City Rollers",
+    "t_strength": "2.99",
+    "t_rank": 24
+  },
+  {
+    "t_name": "Charm City Roller Girls",
+    "t_strength": "2.97",
+    "t_rank": 25
+  },
+  {
+    "t_name": "No Coast Derby Girls",
+    "t_strength": "2.97",
+    "t_rank": 26
+  },
+  {
+    "t_name": "Sun State Roller Girls",
+    "t_strength": "2.91",
+    "t_rank": 27
+  },
+  {
+    "t_name": "Steel City Roller Derby",
+    "t_strength": "2.80",
+    "t_rank": 28
+  },
+  {
+    "t_name": "Glasgow Roller Derby",
+    "t_strength": "2.72",
+    "t_rank": 29
+  },
+  {
+    "t_name": "Demolition City Roller Derby",
+    "t_strength": "2.70",
+    "t_rank": 30
+  },
+  {
+    "t_name": "Ohio Roller Girls",
+    "t_strength": "2.68",
+    "t_rank": 31
+  },
+  {
+    "t_name": "Sacred City Derby Girls",
+    "t_strength": "2.68",
+    "t_rank": 32
+  },
+  {
+    "t_name": "Helsinki Roller Derby",
+    "t_strength": "2.67",
+    "t_rank": 33
+  },
+  {
+    "t_name": "Charlottesville Derby Dames",
+    "t_strength": "2.66",
+    "t_rank": 34
+  },
+  {
+    "t_name": "Kansas City Roller Warriors",
+    "t_strength": "2.64",
+    "t_rank": 35
+  },
+  {
+    "t_name": "Arizona Roller Derby",
+    "t_strength": "2.62",
+    "t_rank": 36
+  },
+  {
+    "t_name": "Rideau Valley Roller Girls",
+    "t_strength": "2.61",
+    "t_rank": 37
+  },
+  {
+    "t_name": "Pikes Peak Derby Dames",
+    "t_strength": "2.61",
+    "t_rank": 38
+  },
+  {
+    "t_name": "Nashville Rollergirls",
+    "t_strength": "2.60",
+    "t_rank": 39
+  },
+  {
+    "t_name": "Chicago Outfit Roller Derby",
+    "t_strength": "2.59",
+    "t_rank": 40
+  },
+  {
+    "t_name": "Toronto Roller Derby",
+    "t_strength": "2.58",
+    "t_rank": 41
+  },
+  {
+    "t_name": "Mad Rollin' Dolls Roller Derby",
+    "t_strength": "2.57",
+    "t_rank": 42
+  },
+  {
+    "t_name": "Columbia Quad Squad",
+    "t_strength": "2.56",
+    "t_rank": 43
+  },
+  {
+    "t_name": "Santa Cruz Derby Girls",
+    "t_strength": "2.54",
+    "t_rank": 44
+  },
+  {
+    "t_name": "Bear City Roller Derby",
+    "t_strength": "2.52",
+    "t_rank": 45
+  },
+  {
+    "t_name": "Naptown Roller Girls",
+    "t_strength": "2.51",
+    "t_rank": 46
+  },
+  {
+    "t_name": "Queen City Roller Girls",
+    "t_strength": "2.51",
+    "t_rank": 47
+  },
+  {
+    "t_name": "Emerald City Roller Girls",
+    "t_strength": "2.50",
+    "t_rank": 48
+  },
+  {
+    "t_name": "Oly Rollers",
+    "t_strength": "2.46",
+    "t_rank": 49
+  },
+  {
+    "t_name": "Tri-City Roller Derby",
+    "t_strength": "2.45",
+    "t_rank": 50
+  },
+  {
+    "t_name": "Wasatch Roller Derby",
+    "t_strength": "2.44",
+    "t_rank": 51
+  },
+  {
+    "t_name": "Sac City Rollers",
+    "t_strength": "2.40",
+    "t_rank": 52
+  },
+  {
+    "t_name": "Houston Roller Derby",
+    "t_strength": "2.40",
+    "t_rank": 53
+  },
+  {
+    "t_name": "Brandywine Roller Girls",
+    "t_strength": "2.40",
+    "t_rank": 54
+  },
+  {
+    "t_name": "Boulder County Bombers",
+    "t_strength": "2.40",
+    "t_rank": 55
+  },
+  {
+    "t_name": "Ann Arbor Roller Derby",
+    "t_strength": "2.24",
+    "t_rank": 56
+  },
+  {
+    "t_name": "St. Chux Derby Chix",
+    "t_strength": "2.24",
+    "t_rank": 57
+  },
+  {
+    "t_name": "Treasure Valley Rollergirls",
+    "t_strength": "2.21",
+    "t_rank": 58
+  },
+  {
+    "t_name": "Jet City Rollergirls",
+    "t_strength": "2.19",
+    "t_rank": 59
+  },
+  {
+    "t_name": "Brewcity Bruisers",
+    "t_strength": "2.16",
+    "t_rank": 60
+  },
+  {
+    "t_name": "Windy City Rollers",
+    "t_strength": "2.15",
+    "t_rank": 61
+  },
+  {
+    "t_name": "Calgary Roller Derby Association",
+    "t_strength": "2.14",
+    "t_rank": 62
+  },
+  {
+    "t_name": "Tucson Roller Derby",
+    "t_strength": "2.08",
+    "t_rank": 63
+  },
+  {
+    "t_name": "Oklahoma Victory Dolls",
+    "t_strength": "2.05",
+    "t_rank": 64
+  },
+  {
+    "t_name": "Auld Reekie Roller Girls",
+    "t_strength": "2.05",
+    "t_rank": 65
+  },
+  {
+    "t_name": "Paradise City Roller Derby",
+    "t_strength": "2.03",
+    "t_rank": 66
+  },
+  {
+    "t_name": "Carolina Rollergirls",
+    "t_strength": "1.94",
+    "t_rank": 67
+  },
+  {
+    "t_name": "Fabulous Sin City Rollergirls",
+    "t_strength": "1.94",
+    "t_rank": 68
+  },
+  {
+    "t_name": "Cincinnati Rollergirls",
+    "t_strength": "1.90",
+    "t_rank": 69
+  },
+  {
+    "t_name": "Grand Raggidy Roller Girls",
+    "t_strength": "1.87",
+    "t_rank": 70
+  },
+  {
+    "t_name": "Green Mt. Roller Derby",
+    "t_strength": "1.86",
+    "t_rank": 71
+  },
+  {
+    "t_name": "Burning River Roller Derby",
+    "t_strength": "1.85",
+    "t_rank": 72
+  },
+  {
+    "t_name": "Blue Ridge Rollergirls",
+    "t_strength": "1.84",
+    "t_rank": 73
+  },
+  {
+    "t_name": "North Star Roller Girls",
+    "t_strength": "1.81",
+    "t_rank": 74
+  },
+  {
+    "t_name": "Roc City Roller Derby",
+    "t_strength": "1.76",
+    "t_rank": 75
+  },
+  {
+    "t_name": "Ft. Wayne Derby Girls",
+    "t_strength": "1.72",
+    "t_rank": 76
+  },
+  {
+    "t_name": "Ithaca League of Women Rollers",
+    "t_strength": "1.72",
+    "t_rank": 77
+  },
+  {
+    "t_name": "DC Rollergirls",
+    "t_strength": "1.71",
+    "t_rank": 78
+  },
+  {
+    "t_name": "Big Easy Rollergirls",
+    "t_strength": "1.70",
+    "t_rank": 79
+  },
+  {
+    "t_name": "Killamazoo Derby Darlins",
+    "t_strength": "1.64",
+    "t_rank": 80
+  },
+  {
+    "t_name": "Fort Myers Derby Girls",
+    "t_strength": "1.64",
+    "t_rank": 81
+  },
+  {
+    "t_name": "Sioux City Roller Dames",
+    "t_strength": "1.64",
+    "t_rank": 82
+  },
+  {
+    "t_name": "Maine Roller Derby",
+    "t_strength": "1.62",
+    "t_rank": 83
+  },
+  {
+    "t_name": "Omaha Rollergirls",
+    "t_strength": "1.60",
+    "t_rank": 84
+  },
+  {
+    "t_name": "Nidaros Roller Derby",
+    "t_strength": "1.58",
+    "t_rank": 85
+  },
+  {
+    "t_name": "Kallio Rolling Rainbow",
+    "t_strength": "1.58",
+    "t_rank": 86
+  },
+  {
+    "t_name": "Old Capitol City Roller Girls",
+    "t_strength": "1.57",
+    "t_rank": 87
+  },
+  {
+    "t_name": "Dupage Derby Dames",
+    "t_strength": "1.54",
+    "t_rank": 88
+  },
+  {
+    "t_name": "Leeds Roller Dolls",
+    "t_strength": "1.51",
+    "t_rank": 89
+  },
+  {
+    "t_name": "Tiger Bay Brawlers",
+    "t_strength": "1.47",
+    "t_rank": 90
+  },
+  {
+    "t_name": "Providence Roller Derby",
+    "t_strength": "1.45",
+    "t_rank": 91
+  },
+  {
+    "t_name": "Twin City Derby Girls",
+    "t_strength": "1.44",
+    "t_rank": 92
+  },
+  {
+    "t_name": "Northwest Arkansas Roller Derby",
+    "t_strength": "1.42",
+    "t_rank": 93
+  },
+  {
+    "t_name": "Suburbia Roller Derby",
+    "t_strength": "1.42",
+    "t_rank": 94
+  },
+  {
+    "t_name": "Lansing Derby Vixens",
+    "t_strength": "1.41",
+    "t_rank": 95
+  },
+  {
+    "t_name": "Sydney Roller Derby League",
+    "t_strength": "1.41",
+    "t_rank": 96
+  },
+  {
+    "t_name": "Garden State Rollergirls",
+    "t_strength": "1.41",
+    "t_rank": 97
+  },
+  {
+    "t_name": "Pirate City Rollers",
+    "t_strength": "1.38",
+    "t_rank": 98
+  },
+  {
+    "t_name": "Rainy City Roller Girls",
+    "t_strength": "1.38",
+    "t_rank": 99
+  },
+  {
+    "t_name": "Memphis Roller Derby",
+    "t_strength": "1.38",
+    "t_rank": 100
+  },
+  {
+    "t_name": "Salisbury Rollergirls",
+    "t_strength": "1.36",
+    "t_rank": 101
+  },
+  {
+    "t_name": "Junction City Roller Dolls",
+    "t_strength": "1.35",
+    "t_rank": 102
+  },
+  {
+    "t_name": "Royal City Roller Girls",
+    "t_strength": "1.33",
+    "t_rank": 103
+  },
+  {
+    "t_name": "Bakersfield Diamond Divas",
+    "t_strength": "1.32",
+    "t_rank": 104
+  },
+  {
+    "t_name": "Winnipeg Roller Derby League",
+    "t_strength": "1.30",
+    "t_rank": 105
+  },
+  {
+    "t_name": "Charlotte Roller Girls",
+    "t_strength": "1.30",
+    "t_rank": 106
+  },
+  {
+    "t_name": "Muddy River Rollers",
+    "t_strength": "1.25",
+    "t_rank": 107
+  },
+  {
+    "t_name": "Greensboro Roller Derby",
+    "t_strength": "1.23",
+    "t_rank": 108
+  },
+  {
+    "t_name": "Derby City Roller Girls",
+    "t_strength": "1.22",
+    "t_rank": 109
+  },
+  {
+    "t_name": "Oklahoma City Roller Derby",
+    "t_strength": "1.21",
+    "t_rank": 110
+  },
+  {
+    "t_name": "Shasta Roller Derby",
+    "t_strength": "1.20",
+    "t_rank": 111
+  },
+  {
+    "t_name": "Red Stick Roller Derby",
+    "t_strength": "1.19",
+    "t_rank": 112
+  },
+  {
+    "t_name": "Cape Fear Roller Girls",
+    "t_strength": "1.18",
+    "t_rank": 113
+  },
+  {
+    "t_name": "ICT Roller Girls",
+    "t_strength": "1.18",
+    "t_rank": 114
+  },
+  {
+    "t_name": "Hard Knox Roller Girls",
+    "t_strength": "1.18",
+    "t_rank": 115
+  },
+  {
+    "t_name": "San Fernando Valley Roller Derby",
+    "t_strength": "1.18",
+    "t_rank": 116
+  },
+  {
+    "t_name": "Lowcountry HighRollers",
+    "t_strength": "1.15",
+    "t_rank": 117
+  },
+  {
+    "t_name": "North Texas Roller Derby",
+    "t_strength": "1.15",
+    "t_rank": 118
+  },
+  {
+    "t_name": "Undead Bettys",
+    "t_strength": "1.15",
+    "t_rank": 119
+  },
+  {
+    "t_name": "Granite State Roller Derby",
+    "t_strength": "1.15",
+    "t_rank": 120
+  },
+  {
+    "t_name": "Fargo Moorhead Derby Girls",
+    "t_strength": "1.14",
+    "t_rank": 121
+  },
+  {
+    "t_name": "Rage City Rollergirls",
+    "t_strength": "1.14",
+    "t_rank": 122
+  },
+  {
+    "t_name": "Gem City Rollergirls",
+    "t_strength": "1.13",
+    "t_rank": 123
+  },
+  {
+    "t_name": "Central NY Roller Derby",
+    "t_strength": "1.10",
+    "t_rank": 124
+  },
+  {
+    "t_name": "NEO Roller Derby",
+    "t_strength": "1.10",
+    "t_rank": 125
+  },
+  {
+    "t_name": "Dub City Derby Girls",
+    "t_strength": "1.09",
+    "t_rank": 126
+  },
+  {
+    "t_name": "Cornfed Derby Dames",
+    "t_strength": "1.09",
+    "t_rank": 127
+  },
+  {
+    "t_name": "Canberra Roller Derby League",
+    "t_strength": "1.09",
+    "t_rank": 128
+  },
+  {
+    "t_name": "Gold Coast Derby Grrls",
+    "t_strength": "1.08",
+    "t_rank": 129
+  },
+  {
+    "t_name": "Cherry City Derby Girls",
+    "t_strength": "1.07",
+    "t_rank": 130
+  },
+  {
+    "t_name": "Lehigh Valley Rollergirls",
+    "t_strength": "1.06",
+    "t_rank": 131
+  },
+  {
+    "t_name": "Gent Go Go Rollergirls",
+    "t_strength": "1.06",
+    "t_rank": 132
+  },
+  {
+    "t_name": "V-Town Derby Dames",
+    "t_strength": "1.05",
+    "t_rank": 133
+  },
+  {
+    "t_name": "Tragic City Rollers",
+    "t_strength": "1.04",
+    "t_rank": 134
+  },
+  {
+    "t_name": "Newcastle Roller Girls",
+    "t_strength": "1.04",
+    "t_rank": 135
+  },
+  {
+    "t_name": "Middlesbrough Milk Rollers",
+    "t_strength": "1.04",
+    "t_rank": 136
+  },
+  {
+    "t_name": "Rainier Rollergirls",
+    "t_strength": "1.02",
+    "t_rank": 137
+  },
+  {
+    "t_name": "Mid-States Sisters of Skate",
+    "t_strength": "1.02",
+    "t_rank": 138
+  },
+  {
+    "t_name": "Adelaide Roller Derby",
+    "t_strength": "1.02",
+    "t_rank": 139
+  },
+  {
+    "t_name": "Central City Roller Girls",
+    "t_strength": "1.01",
+    "t_rank": 140
+  },
+  {
+    "t_name": "Fox Cities Roller Derby",
+    "t_strength": "1.01",
+    "t_rank": 141
+  },
+  {
+    "t_name": "Molly Roger Rollergirls",
+    "t_strength": "1.01",
+    "t_rank": 142
+  },
+  {
+    "t_name": "Dublin Roller Derby",
+    "t_strength": "1.00",
+    "t_rank": 143
+  },
+  {
+    "t_name": "Hammer City Roller Girls",
+    "t_strength": "1.00",
+    "t_rank": 144
+  },
+  {
+    "t_name": "Dutchland Derby Rollers",
+    "t_strength": "0.99",
+    "t_rank": 145
+  },
+  {
+    "t_name": "Classic City Rollergirls",
+    "t_strength": "0.99",
+    "t_rank": 146
+  },
+  {
+    "t_name": "Connecticut RollerGirls",
+    "t_strength": "0.98",
+    "t_rank": 147
+  },
+  {
+    "t_name": "Paris Rollergirls",
+    "t_strength": "0.97",
+    "t_rank": 148
+  },
+  {
+    "t_name": "Perth Roller Derby",
+    "t_strength": "0.96",
+    "t_rank": 149
+  },
+  {
+    "t_name": "Rock n Roller Queens",
+    "t_strength": "0.95",
+    "t_rank": 150
+  },
+  {
+    "t_name": "Lava City Roller Dolls",
+    "t_strength": "0.95",
+    "t_rank": 151
+  },
+  {
+    "t_name": "Long Island Roller Rebels",
+    "t_strength": "0.95",
+    "t_rank": 152
+  },
+  {
+    "t_name": "Gothenburg Roller Derby",
+    "t_strength": "0.93",
+    "t_rank": 153
+  },
+  {
+    "t_name": "Appalachian Rollergirls",
+    "t_strength": "0.93",
+    "t_rank": 154
+  },
+  {
+    "t_name": "Chattanooga Roller Girls",
+    "t_strength": "0.92",
+    "t_rank": 155
+  },
+  {
+    "t_name": "Richter City Roller Derby",
+    "t_strength": "0.91",
+    "t_rank": 156
+  },
+  {
+    "t_name": "Pueblo Derby Devil Dollz",
+    "t_strength": "0.91",
+    "t_rank": 157
+  },
+  {
+    "t_name": "New Jersey Roller Derby",
+    "t_strength": "0.90",
+    "t_rank": 158
+  },
+  {
+    "t_name": "One Love Roller Dolls",
+    "t_strength": "0.90",
+    "t_rank": 159
+  },
+  {
+    "t_name": "Prairieland Punishers",
+    "t_strength": "0.89",
+    "t_rank": 160
+  },
+  {
+    "t_name": "Mo-Kan Roller Girls",
+    "t_strength": "0.89",
+    "t_rank": 161
+  },
+  {
+    "t_name": "Crossroads City Derby",
+    "t_strength": "0.89",
+    "t_rank": 162
+  },
+  {
+    "t_name": "River Valley Roller Girls",
+    "t_strength": "0.88",
+    "t_rank": 163
+  },
+  {
+    "t_name": "Stuttgart Valley Roller Girls",
+    "t_strength": "0.88",
+    "t_rank": 164
+  },
+  {
+    "t_name": "Durango Roller Girls",
+    "t_strength": "0.88",
+    "t_rank": 165
+  },
+  {
+    "t_name": "Ventura County Derby Darlins",
+    "t_strength": "0.87",
+    "t_rank": 166
+  },
+  {
+    "t_name": "Forest City Derby Girls",
+    "t_strength": "0.87",
+    "t_rank": 167
+  },
+  {
+    "t_name": "Royal Windsor Rollergirls",
+    "t_strength": "0.87",
+    "t_rank": 168
+  },
+  {
+    "t_name": "Dark River Derby Coalition",
+    "t_strength": "0.86",
+    "t_rank": 169
+  },
+  {
+    "t_name": "Happy Valley Derby Darlins",
+    "t_strength": "0.86",
+    "t_rank": 170
+  },
+  {
+    "t_name": "Humboldt Roller Derby",
+    "t_strength": "0.85",
+    "t_rank": 171
+  },
+  {
+    "t_name": "FoCo Girls Gone Derby",
+    "t_strength": "0.85",
+    "t_rank": 172
+  },
+  {
+    "t_name": "Nottingham Hellfire Harlots",
+    "t_strength": "0.85",
+    "t_rank": 173
+  },
+  {
+    "t_name": "Border City Brawlers",
+    "t_strength": "0.85",
+    "t_rank": 174
+  },
+  {
+    "t_name": "580 Rollergirls",
+    "t_strength": "0.84",
+    "t_rank": 175
+  },
+  {
+    "t_name": "Cen-Tex Rollergirls",
+    "t_strength": "0.84",
+    "t_rank": 176
+  },
+  {
+    "t_name": "Central Arkansas Roller Derby",
+    "t_strength": "0.83",
+    "t_rank": 177
+  },
+  {
+    "t_name": "Duke City Derby",
+    "t_strength": "0.83",
+    "t_rank": 178
+  },
+  {
+    "t_name": "Monterey Bay Derby Dames",
+    "t_strength": "0.83",
+    "t_rank": 179
+  },
+  {
+    "t_name": "Babe City Rollers",
+    "t_strength": "0.82",
+    "t_rank": 180
+  },
+  {
+    "t_name": "Mother State Roller Derby",
+    "t_strength": "0.82",
+    "t_rank": 181
+  },
+  {
+    "t_name": "Bleeding Heartland Roller Derby",
+    "t_strength": "0.82",
+    "t_rank": 182
+  },
+  {
+    "t_name": "Richland County Regulators Derby Team",
+    "t_strength": "0.81",
+    "t_rank": 183
+  },
+  {
+    "t_name": "Dominion Derby Girls",
+    "t_strength": "0.81",
+    "t_rank": 184
+  },
+  {
+    "t_name": "Harbor City Roller Dames",
+    "t_strength": "0.81",
+    "t_rank": 185
+  },
+  {
+    "t_name": "Bay State Brawlers",
+    "t_strength": "0.81",
+    "t_rank": 186
+  },
+  {
+    "t_name": "Cheyenne Capidolls",
+    "t_strength": "0.80",
+    "t_rank": 187
+  },
+  {
+    "t_name": "Black Rose Rollers",
+    "t_strength": "0.80",
+    "t_rank": 188
+  },
+  {
+    "t_name": "Hartford Area Roller Derby",
+    "t_strength": "0.79",
+    "t_rank": 189
+  },
+  {
+    "t_name": "Nantes Derby Girls",
+    "t_strength": "0.78",
+    "t_rank": 190
+  },
+  {
+    "t_name": "Ark Valley High Rollers",
+    "t_strength": "0.78",
+    "t_rank": 191
+  },
+  {
+    "t_name": "Chippewa Valley Roller Girls",
+    "t_strength": "0.78",
+    "t_rank": 192
+  },
+  {
+    "t_name": "Snake Pit Derby Dames",
+    "t_strength": "0.78",
+    "t_rank": 193
+  },
+  {
+    "t_name": "Tallahassee Rollergirls",
+    "t_strength": "0.78",
+    "t_rank": 194
+  },
+  {
+    "t_name": "Southern Illinois Rollergirls",
+    "t_strength": "0.78",
+    "t_rank": 195
+  },
+  {
+    "t_name": "Oslo Roller Derby",
+    "t_strength": "0.78",
+    "t_rank": 196
+  },
+  {
+    "t_name": "Mississippi Rollergirls",
+    "t_strength": "0.76",
+    "t_rank": 197
+  },
+  {
+    "t_name": "Como Derby Dames",
+    "t_strength": "0.76",
+    "t_rank": 198
+  },
+  {
+    "t_name": "Sonoma County Roller Derby",
+    "t_strength": "0.76",
+    "t_rank": 199
+  },
+  {
+    "t_name": "Derby Revolution of Bakersfield",
+    "t_strength": "0.76",
+    "t_rank": 200
+  },
+  {
+    "t_name": "Amsterdam Derby Dames",
+    "t_strength": "0.75",
+    "t_rank": 201
+  },
+  {
+    "t_name": "Cajun Rollergirls",
+    "t_strength": "0.75",
+    "t_rank": 202
+  },
+  {
+    "t_name": "Bellingham Roller Betties",
+    "t_strength": "0.74",
+    "t_rank": 203
+  },
+  {
+    "t_name": "Rock Coast Rollers",
+    "t_strength": "0.74",
+    "t_rank": 204
+  },
+  {
+    "t_name": "Cedar Rapids RollerGirls",
+    "t_strength": "0.73",
+    "t_rank": 205
+  },
+  {
+    "t_name": "Shore Points Roller Derby",
+    "t_strength": "0.72",
+    "t_rank": 206
+  },
+  {
+    "t_name": "Worcester Roller Derby",
+    "t_strength": "0.72",
+    "t_rank": 207
+  },
+  {
+    "t_name": "Mass Attack Roller Derby",
+    "t_strength": "0.72",
+    "t_rank": 208
+  },
+  {
+    "t_name": "Springfield Rollergirls",
+    "t_strength": "0.72",
+    "t_rank": 209
+  },
+  {
+    "t_name": "Muscogee Roller Girls",
+    "t_strength": "0.71",
+    "t_rank": 210
+  },
+  {
+    "t_name": "Alamo City Rollergirls",
+    "t_strength": "0.71",
+    "t_rank": 211
+  },
+  {
+    "t_name": "Dixie Derby Girls",
+    "t_strength": "0.70",
+    "t_rank": 212
+  },
+  {
+    "t_name": "Dockyard Derby Dames",
+    "t_strength": "0.68",
+    "t_rank": 213
+  },
+  {
+    "t_name": "Mississippi Valley Mahem",
+    "t_strength": "0.67",
+    "t_rank": 214
+  },
+  {
+    "t_name": "Pensacola Roller Gurlz",
+    "t_strength": "0.67",
+    "t_rank": 215
+  },
+  {
+    "t_name": "Greater Toronto Area Rollergirls",
+    "t_strength": "0.66",
+    "t_rank": 216
+  },
+  {
+    "t_name": "London Rockin' Rollers",
+    "t_strength": "0.66",
+    "t_rank": 217
+  },
+  {
+    "t_name": "Five 40 Roller Girls",
+    "t_strength": "0.65",
+    "t_rank": 218
+  },
+  {
+    "t_name": "Magnolia Roller Vixens",
+    "t_strength": "0.64",
+    "t_rank": 219
+  },
+  {
+    "t_name": "Cedar Valley Derby Divas",
+    "t_strength": "0.63",
+    "t_rank": 220
+  },
+  {
+    "t_name": "Sioux Falls Roller Dollz",
+    "t_strength": "0.63",
+    "t_rank": 221
+  },
+  {
+    "t_name": "West Coast Derby Knockouts",
+    "t_strength": "0.63",
+    "t_rank": 222
+  },
+  {
+    "t_name": "Quad City Rollers",
+    "t_strength": "0.62",
+    "t_rank": 223
+  },
+  {
+    "t_name": "Kokeshi Roller Dolls",
+    "t_strength": "0.62",
+    "t_rank": 224
+  },
+  {
+    "t_name": "Silicon Valley Rollergirls",
+    "t_strength": "0.61",
+    "t_rank": 225
+  },
+  {
+    "t_name": "Roughneck Roller Derby",
+    "t_strength": "0.61",
+    "t_rank": 226
+  },
+  {
+    "t_name": "Albany All Stars",
+    "t_strength": "0.60",
+    "t_rank": 227
+  },
+  {
+    "t_name": "Northside Rollers",
+    "t_strength": "0.60",
+    "t_rank": 228
+  },
+  {
+    "t_name": "Wilkes-Barre/Scranton Roller Radicals",
+    "t_strength": "0.59",
+    "t_rank": 229
+  },
+  {
+    "t_name": "Copenhagen Roller Derby",
+    "t_strength": "0.59",
+    "t_rank": 230
+  },
+  {
+    "t_name": "Little City Roller Girls",
+    "t_strength": "0.59",
+    "t_rank": 231
+  },
+  {
+    "t_name": "A'Salt Creek Rollergirls",
+    "t_strength": "0.58",
+    "t_rank": 232
+  },
+  {
+    "t_name": "Hudson Valley Horrors",
+    "t_strength": "0.58",
+    "t_rank": 233
+  },
+  {
+    "t_name": "West Texas Roller Dollz",
+    "t_strength": "0.57",
+    "t_rank": 234
+  },
+  {
+    "t_name": "Little Steel Derby Girls",
+    "t_strength": "0.57",
+    "t_rank": 235
+  },
+  {
+    "t_name": "Mason Dixon Roller Vixens",
+    "t_strength": "0.56",
+    "t_rank": 236
+  },
+  {
+    "t_name": "Glass City Rollers",
+    "t_strength": "0.56",
+    "t_rank": 237
+  },
+  {
+    "t_name": "Savannah Derby Devils",
+    "t_strength": "0.56",
+    "t_rank": 238
+  },
+  {
+    "t_name": "Jersey Shore Roller Girls",
+    "t_strength": "0.55",
+    "t_rank": 239
+  },
+  {
+    "t_name": "Enid Roller Girls",
+    "t_strength": "0.55",
+    "t_rank": 240
+  },
+  {
+    "t_name": "Circle City Derby Girls",
+    "t_strength": "0.55",
+    "t_rank": 241
+  },
+  {
+    "t_name": "Soul City Sirens",
+    "t_strength": "0.54",
+    "t_rank": 242
+  },
+  {
+    "t_name": "New Hampshire Roller Derby",
+    "t_strength": "0.53",
+    "t_rank": 243
+  },
+  {
+    "t_name": "Paradise Rollergirls",
+    "t_strength": "0.53",
+    "t_rank": 244
+  },
+  {
+    "t_name": "South Bend Roller Girls",
+    "t_strength": "0.53",
+    "t_rank": 245
+  },
+  {
+    "t_name": "South Sea Roller Derby",
+    "t_strength": "0.52",
+    "t_rank": 246
+  },
+  {
+    "t_name": "Belfast Roller Derby",
+    "t_strength": "0.52",
+    "t_rank": 247
+  },
+  {
+    "t_name": "Acadiana Roller Girls",
+    "t_strength": "0.51",
+    "t_rank": 248
+  },
+  {
+    "t_name": "Castle Rock-n-Rollers",
+    "t_strength": "0.51",
+    "t_rank": 249
+  },
+  {
+    "t_name": "River City Rollergirls",
+    "t_strength": "0.51",
+    "t_rank": 250
+  },
+  {
+    "t_name": "Jerzey Derby Brigade",
+    "t_strength": "0.51",
+    "t_rank": 251
+  },
+  {
+    "t_name": "Devil Dog Derby Dames",
+    "t_strength": "0.51",
+    "t_rank": 252
+  },
+  {
+    "t_name": "Harrisburg Area Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 253
+  },
+  {
+    "t_name": "Rocktown Rollers",
+    "t_strength": "0.50",
+    "t_rank": 254
+  },
+  {
+    "t_name": "Western Australia Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 255
+  },
+  {
+    "t_name": "Tokyo Roller Girls",
+    "t_strength": "0.50",
+    "t_rank": 256
+  },
+  {
+    "t_name": "Central Coast Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 257
+  },
+  {
+    "t_name": "Confluence Crush Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 258
+  },
+  {
+    "t_name": "Hellions of Troy Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 259
+  },
+  {
+    "t_name": "State College Area Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 260
+  },
+  {
+    "t_name": "Chemical Valley Rollergirls",
+    "t_strength": "0.50",
+    "t_rank": 261
+  },
+  {
+    "t_name": "Roller Derby Metz Club",
+    "t_strength": "0.50",
+    "t_rank": 262
+  },
+  {
+    "t_name": "Greenville Derby Dames",
+    "t_strength": "0.50",
+    "t_rank": 263
+  },
+  {
+    "t_name": "Assassination City Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 264
+  },
+  {
+    "t_name": "Pacific Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 265
+  },
+  {
+    "t_name": "Slaughterhouse Derby Girls",
+    "t_strength": "0.50",
+    "t_rank": 266
+  },
+  {
+    "t_name": "Rollergirls of Central Kentucky",
+    "t_strength": "0.50",
+    "t_rank": 267
+  },
+  {
+    "t_name": "Roller Girls of the Apocalypse",
+    "t_strength": "0.50",
+    "t_rank": 268
+  },
+  {
+    "t_name": "Diamond State Roller Girls",
+    "t_strength": "0.50",
+    "t_rank": 269
+  },
+  {
+    "t_name": "Renegade Derby Dames",
+    "t_strength": "0.50",
+    "t_rank": 270
+  },
+  {
+    "t_name": "Black-N-Bluegrass Roller Girls",
+    "t_strength": "0.50",
+    "t_rank": 271
+  },
+  {
+    "t_name": "Gainesville Roller Rebels",
+    "t_strength": "0.50",
+    "t_rank": 272
+  },
+  {
+    "t_name": "Vette City Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 273
+  },
+  {
+    "t_name": "Spindletop Rollergirls",
+    "t_strength": "0.50",
+    "t_rank": 274
+  },
+  {
+    "t_name": "El Paso Roller Derby",
+    "t_strength": "0.50",
+    "t_rank": 275
+  }
 ]
