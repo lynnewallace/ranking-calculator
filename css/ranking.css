@@ -6,10 +6,12 @@ h2 {
 
 #team-a {
 	padding-right: 25px;
-	padding-bottom: 80px;
 }
 #team-b {
 	padding-left: 25px;
+}
+#team-a-points {
+	padding-bottom: 80px;
 }
 
 #team-info, #game-info {
