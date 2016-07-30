@@ -4,12 +4,14 @@
   <title>WFTDA Ranking Calculator</title>
 
   <link href="bower_components/jquery-ui/themes/ui-lightness/jquery-ui.min.css" rel="stylesheet">
+  <link href="bower_components/selectize/dist/css/selectize.bootstrap3.css" rel="stylesheet">
   <link href="css/ranking.css" rel="stylesheet">
 
   <script src="bower_components/jquery/dist/jquery.min.js"></script>
   <script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
   <script src="bower_components/underscore/underscore-min.js"></script>
   <script src="bower_components/backbone/backbone.js"></script>
+  <script src="bower_components/selectize/dist/js/standalone/selectize.js"></script>
   <script src="js/calculator.js"></script>
 </head>
 <body>
@@ -19,7 +21,7 @@
   <div id="wrap">
     <div id="team_a">
       <p>
-        Team A : <input id="team_a_auto">
+        <select id="team_a_select" class="demo-default" placeholder="Select a team..."></select>
         <br>
         Rank : <input class="info" disabled type="text" id="a_rank"/> 
         <br>
@@ -41,8 +43,7 @@
 
     <div id="team_b">
       <p>
-        Team B: 
-        <input id="team_b_auto">
+        <select id="team_b_select" placeholder="Select a team..."></select>
         <br>
         Rank : 
         <input class="info" disabled type="text" id="b_rank"/> 

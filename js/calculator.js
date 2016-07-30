@@ -32,7 +32,10 @@ var Teams = Backbone.Collection.extend({
 
     initialize: function(){
         this.fetch().done(function(){
-          var teamNames = allTeams.map(function(team) { return {label: team.get("t_name"), rank: team.get("t_rank")}; });
+          teamNames = allTeams.map(function(team) {
+            return { name: team.get("t_name"), rank: team.get("t_rank") };
+          });
+
           new StrengthASlider().render();
           new StrengthBSlider().render();
           new PointsASlider().render();
@@ -164,58 +167,52 @@ var PointsBSlider = Backbone.View.extend({
 
 var AutocompleteA = Backbone.View.extend({
 
-  el: '#team_a',
-
-  events: {
-    'autocompleteselect #team_a_auto': 'handleSelect'
-  },
-
   render: function(teamNames) {
-    $( "#team_a_auto").val( "" );
-    this.$autocomplete = this.$el.find('#team_a_auto').autocomplete({source: teamNames, minLength: 1});
-  },
+    $('#team_a_select').selectize({
+      valueField: 'rank',
+      labelField: 'name',
+      searchField: 'name',
+      options: teamNames,
+      onItemAdd: function(value, item) {
+        current_team = allTeams.at(value - 1)
+        opponent_team = allTeams.at($("#b_rank").val() - 1)
+        current_team.set({'t_pointsScored': parseInt($("#a_points").val())})
+        opponent_team.set({'t_pointsScored': parseInt($("#b_points").val())})
+        current_team.set({'t_wlFactor': parseFloat($("#a_winloss").val())})
+        opponent_team.set({'t_wlFactor': parseFloat($("#b_winloss").val())})
 
-  handleSelect: function(e, ui) {
-    current_team = allTeams.at(ui.item.rank - 1)
-    opponent_team = allTeams.at($("#b_rank").val() - 1)
-    current_team.set({'t_pointsScored': parseInt($("#a_points").val())})
-    opponent_team.set({'t_pointsScored': parseInt($("#b_points").val())})
-    current_team.set({'t_wlFactor': parseFloat($("#a_winloss").val())})
-    opponent_team.set({'t_wlFactor': parseFloat($("#b_winloss").val())})
-
-		$( "#a_strength" ).val( current_team.get("t_strength") );
-		$( "#a_rank" ).val( ui.item.rank );
-		$( "#a_rank_slider" ).slider( "option", "value", ui.item.rank )
-    $( "#a_gamepoints" ).val( current_team.score(opponent_team) );
-    $( "#b_gamepoints" ).val( opponent_team.score(current_team) );
+        $( "#a_strength" ).val( current_team.get("t_strength") );
+        $( "#a_rank" ).val( value );
+        $( "#a_rank_slider" ).slider( "option", "value", value )
+        $( "#a_gamepoints" ).val( current_team.score(opponent_team) );
+        $( "#b_gamepoints" ).val( opponent_team.score(current_team) );
+      }
+    });
   }
 });
 
 var AutocompleteB = Backbone.View.extend({
 
-  el: '#team_b',
-
-  events: {
-    'autocompleteselect #team_b_auto': 'handleSelect'
-  },
-
   render: function(teamNames) {
-    $( "#team_b_auto").val( "" );
-    this.$autocomplete = this.$el.find('#team_b_auto').autocomplete({source: teamNames, minLength: 1});
-  },
+    $('#team_b_select').selectize({
+      valueField: 'rank',
+      labelField: 'name',
+      searchField: 'name',
+      options: teamNames,
+      onItemAdd: function(value, item) {
+        current_team = allTeams.at(value - 1)
+        opponent_team = allTeams.at($("#a_rank").val() - 1)
+        current_team.set({'t_pointsScored': parseInt($("#b_points").val())})
+        opponent_team.set({'t_pointsScored': parseInt($("#a_points").val())})
+        current_team.set({'t_wlFactor': parseFloat($("#b_winloss").val())})
+        opponent_team.set({'t_wlFactor': parseFloat($("#a_winloss").val())})
 
-  handleSelect: function(e, ui) {
-    current_team = allTeams.at(ui.item.rank - 1)
-    opponent_team = allTeams.at($("#a_rank").val() - 1)
-    current_team.set({'t_pointsScored': parseInt($("#b_points").val())})
-    opponent_team.set({'t_pointsScored': parseInt($("#a_points").val())})
-    current_team.set({'t_wlFactor': parseFloat($("#b_winloss").val())})
-    opponent_team.set({'t_wlFactor': parseFloat($("#a_winloss").val())})
-
-		$( "#b_strength" ).val( current_team.get("t_strength") );
-		$( "#b_rank" ).val( ui.item.rank );
-		$( "#b_rank_slider" ).slider( "option", "value", ui.item.rank )
-    $( "#b_gamepoints" ).val( current_team.score(opponent_team) );
-    $( "#a_gamepoints" ).val( opponent_team.score(current_team) );
+        $( "#b_strength" ).val( current_team.get("t_strength") );
+        $( "#b_rank" ).val( value );
+        $( "#b_rank_slider" ).slider( "option", "value", value )
+        $( "#b_gamepoints" ).val( current_team.score(opponent_team) );
+        $( "#a_gamepoints" ).val( opponent_team.score(current_team) );
+      }
+    });
   }
 });
