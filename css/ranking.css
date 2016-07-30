@@ -1,39 +1,24 @@
-body{
-	font: 80% "Trebuchet MS", sans-serif;
-	margin: 50px;
+h2 {
+  text-align: center;
+  color: #E52E10;
+  padding-bottom: 40px;
 }
-h2{
-	width: 85%;
-	text-align: center;
-	font: "Trebuchet MS", sans-serif;
-	color: #E52E10; 
-	margin-bottom: 50px;
+
+#team-info, #game-info{
+  padding: 20px 0;
 }
+
 input{
 	width: 50%;
 	background-color: #FFFFFF;
 }
-#wrap {
-	width: 100%;
-}
-#team_a {
-	float: left;
-	width:  40%;
-}
-#team_b {
-	margin-left:  45%;
-	width:  40%;
-	padding-top: 0.1px;
-}
+
 .info {
 	border: 0; 
-	font-size:100%;
 	color: #E52E10; 
 	font-weight: bold;
 }
-.ui-menu { 
-	width: 150px; 
-}
+
 .ui-slider-range { 
 	background: #E52E10; 
 }

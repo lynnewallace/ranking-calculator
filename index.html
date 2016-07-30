@@ -1,71 +1,64 @@
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>WFTDA Ranking Calculator</title>
+    <head>
+    <meta charset="utf-8">
+    <title>WFTDA Ranking Calculator</title>
 
-  <link href="bower_components/jquery-ui/themes/ui-lightness/jquery-ui.min.css" rel="stylesheet">
-  <link href="bower_components/selectize/dist/css/selectize.bootstrap3.css" rel="stylesheet">
-  <link href="css/ranking.css" rel="stylesheet">
+    <link href="bower_components/jquery-ui/themes/ui-lightness/jquery-ui.min.css" rel="stylesheet">
+    <link href="bower_components/selectize/dist/css/selectize.bootstrap3.css" rel="stylesheet">
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/ranking.css" rel="stylesheet">
 
-  <script src="bower_components/jquery/dist/jquery.min.js"></script>
-  <script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
-  <script src="bower_components/underscore/underscore-min.js"></script>
-  <script src="bower_components/backbone/backbone.js"></script>
-  <script src="bower_components/selectize/dist/js/standalone/selectize.js"></script>
-  <script src="js/calculator.js"></script>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
+    <script src="bower_components/underscore/underscore-min.js"></script>
+    <script src="bower_components/backbone/backbone.js"></script>
+    <script src="bower_components/selectize/dist/js/standalone/selectize.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="js/calculator.js"></script>
 </head>
 <body>
+    <h2>WFTDA ranking calculator</h2>
 
-  <h2>WFTDA ranking calculator</h2>
+    <div class="container">
+        <div class="col-sm-6" id="team_a">
+            <select id="team_a_select" placeholder="Select a team..."></select>
+            <div id="team-info">
+                Rank: <input class="info" disabled type="text" id="a_rank"/>
+                <br>
+                Strength factor: <input class="info" disabled type="text" id="a_strength"/>
+            </div>
+            <div id="a_rank_slider"></div>
+            <div id="game-info">
+                Points: <input class="info" disabled type="text" id="a_points"/>
+                <br>
+                Win / Loss factor: <input class="info" disabled type="text" id="a_winloss"/>
+            </div>
+            <div id="a_points_slider"></div>
+            <hr>
+            <div>
+                Game points earned: <input class="info" disabled type="text" id="a_gamepoints"/>
+            </div>
+        </div>
 
-  <div id="wrap">
-    <div id="team_a">
-      <p>
-        <select id="team_a_select" class="demo-default" placeholder="Select a team..."></select>
-        <br>
-        Rank : <input class="info" disabled type="text" id="a_rank"/> 
-        <br>
-        Strength factor : <input class="info" disabled type="text" id="a_strength"/>
-        <div id="a_rank_slider"></div>
-      </p>
-
-      <p>
-        Points : <input class="info" disabled type="text" id="a_points"/>
-        <br>
-        Win / Loss factor : <input class="info" disabled type="text" id="a_winloss"/>
-        <div id="a_points_slider"></div>
-      </p>
-
-      <p>
-        Game points earned : <input class="info" disabled type="text" id="a_gamepoints"/>
-      </p>
+        <div class="col-sm-6" id="team_b">
+            <select id="team_b_select" placeholder="Select a team..."></select>
+            <div id="team-info">
+                Rank: <input class="info" disabled type="text" id="b_rank"/>
+                <br>
+                Strength factor: <input class="info" disabled type="text" id="b_strength"/>
+            </div>
+            <div id="b_rank_slider"></div>
+            <div id="game-info">
+                Points: <input class="info" disabled type="text" id="b_points"/>
+                <br>
+                Win / Loss factor: <input class="info" disabled type="text" id="b_winloss"/>
+            </div>
+            <div id="b_points_slider"></div>
+            <hr>
+            <div>
+                Game points earned : <input class="info" disabled type="text" id="b_gamepoints"/>
+            </div>
+        </div>
     </div>
-
-    <div id="team_b">
-      <p>
-        <select id="team_b_select" placeholder="Select a team..."></select>
-        <br>
-        Rank : 
-        <input class="info" disabled type="text" id="b_rank"/> 
-        <br>
-        Strength factor : 
-        <input class="info" disabled type="text" id="b_strength"/>
-        <div id="b_rank_slider"></div>
-      </p>
-
-      <p>
-        Points:
-        <input class="info" disabled type="text" id="b_points"/>
-        <br>
-        Win / Loss factor: 
-        <input class="info" disabled type="text" id="b_winloss"/>
-        <div id="b_points_slider"></div>
-      </p>
-
-      <p>
-        Game points earned : <input class="info" disabled type="text" id="b_gamepoints"/>
-      </p>
-    </div>
-  </div>
 </body>
 </html>
